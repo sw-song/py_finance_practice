@@ -1,7 +1,7 @@
 # Data Science Study
 파이썬 활용 데이터 수집, 가설 검정, 데이터 분석, 머신러닝 예측 및 분류 모델링 등 전반적인 데이터사이언스 영역의 튜토리얼을 만들어가고 있습니다.
 
-**[1. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/TIA/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
+**[1. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/ds-study/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
 ```
 Step 1. 가설 설정
 Step 2. 기본 전처리
@@ -20,7 +20,7 @@ Step 3. 가설 검정
 Step 4. 종합 결론
 ```
 
-**[2. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/TIA/blob/main/00_02_ecommerce/ecommerce.ipynb)**
+**[2. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/ds-study/blob/main/00_02_ecommerce/ecommerce.ipynb)**
 ```
 Step 1. 가설 설정
 Step 2. 가설 검정
@@ -35,7 +35,7 @@ Step 3. 분석 결과
 Step 4. 매출 개선 시뮬레이션
 ```
 
-**[3. 증권사(키움증권) API를 활용한 비 실시간(Batch) 주가 정보 수집](https://github.com/sw-song/TIA/blob/main/00_03_pykiwoom/pykiwoom_test.ipynb)**
+**[3. 증권사(키움증권) API를 활용한 비 실시간(Batch) 주가 정보 수집](https://github.com/sw-song/ds-study/blob/main/00_03_pykiwoom/pykiwoom_test.ipynb)**
 ```
 Step 1. 개요
      1-1. 주식 데이터 수집 방식 비교
@@ -51,7 +51,7 @@ Step 4. 주가 정보 수집
      4-2. 개별 주식 일봉 차트 조회
 ```
 
-**[4. 가설 검정을 통한 카카오 주식 매매 백테스팅](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/kakao_backtesting.ipynb)**
+**[4. 가설 검정을 통한 카카오 주식 매매 백테스팅](https://github.com/sw-song/ds-study/blob/main/00_04_backtesting/kakao_backtesting.ipynb)**
 ```
 Step 1. 카카오 주식을 1999년 11월 11일에 100만원 치 샀다면 오늘 얼마일까?
      1-1. 라이브러리 호출 및 데이터 확인
@@ -68,7 +68,7 @@ Step 3. 수면제 먹고 자는 것보다 더 나은 수익을 낼 수 있을까
      3-6. 가설 검정(매입액 현재가 비교)
 ```
 
-**[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/TIA/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
+**[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/ds-study/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
 ```
 Step 1. 문제 상황 가정 및 데이터 전처리 
      1-1. 라이브러리 호출 및 데이터 확인 
@@ -78,7 +78,7 @@ Step 1. 문제 상황 가정 및 데이터 전처리
      1-5. 이상치 처리
 ```
 
-**[5. (2) 고객 군집 분석 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/TIA/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
+**[5. (2) 고객 군집 분석 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/ds-study/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
 ```
 Step 2. 고객 그룹 세분화
      2-1. 나이에 따라 분류하기
@@ -90,7 +90,7 @@ Step 2. 고객 그룹 세분화
      2-7. 머신러닝으로 분류하기
 ```
 
-**[6. 과거 주가 데이터로 미래 주가를 예측할 수 있을까? | 파이썬 패턴 검색기 구현](https://github.com/sw-song/TIA/blob/main/00_06_pattern_search/pattern_search.ipynb)**
+**[6. 과거 주가 데이터로 미래 주가를 예측할 수 있을까? | 파이썬 패턴 검색기 구현](https://github.com/sw-song/ds-study/blob/main/00_06_pattern_search/pattern_search.ipynb)**
 ```
 Step 1. 라이브러리 호출 및 코스피 지수 추출
 Step 2. 기준 구간 지정 및 시각화
@@ -98,14 +98,14 @@ Step 3. 패턴 검색기 구현
 Step 4. 검색 구간 이후의 추세 확인
 ```
 
-**[7. AI, 딥러닝으로 주가를 예측할 수 있다고?](https://github.com/sw-song/TIA/blob/main/00_07_price_forecasting/linear_reg.ipynb)**
+**[7. AI, 딥러닝으로 주가를 예측할 수 있다고?](https://github.com/sw-song/ds-study/blob/main/00_07_price_forecasting/linear_reg.ipynb)**
 ```
 Step 1. 시계열 데이터와 예측
 Step 2. 예측 실험
 Step 3. 결과 해석
 ```
 
-**[8. (코드)Bitcoin price forecasting](https://github.com/sw-song/TIA/blob/main/00_08_holt_winters/bitcoin_predict.ipynb)**
+**[8. (코드)Bitcoin price forecasting](https://github.com/sw-song/ds-study/blob/main/00_08_holt_winters/bitcoin_predict.ipynb)**
 ```
 Step 1. 데이터 전처리
 Step 2. 이동 평균과 지수 평활
@@ -117,7 +117,7 @@ Step 3. 추세와 계절성을 추가한 2차, 3차 지수 평활
      3-2. 3차 지수 평활
 ```
 
-**[9. (코드)Time series - autocorrelation](https://github.com/sw-song/TIA/blob/main/00_09_ts_autocorrelation/acf_pacf.ipynb)**
+**[9. (코드)Time series - autocorrelation](https://github.com/sw-song/ds-study/blob/main/00_09_ts_autocorrelation/acf_pacf.ipynb)**
 ```
 Step 1. 데이터 불러오기
 Step 2. 종가 데이터 분석
@@ -128,7 +128,7 @@ Step 3. 차분 데이터 분석
      3-2. 정상성
 ```
 
-**[10. (코드)Predict Income](https://github.com/sw-song/TIA/blob/main/00_10_predict_income/predict_income.ipynb)**
+**[10. (코드)Predict Income](https://github.com/sw-song/ds-study/blob/main/00_10_predict_income/predict_income.ipynb)**
 ```
 Step 1. Prepare datasets and EDA
      1-1. Seperate columns with numerical columns and categorical columns
@@ -153,7 +153,7 @@ Step 3. Modeling and Prediction
      3-5. Deep Learning
 ```
 
-**[11. 코스피, 달러 정보 수집부터 시각화까지](https://github.com/sw-song/TIA/blob/main/00_11_kospi_analysis/kospi_analysis.ipynb)**
+**[11. 코스피, 달러 정보 수집부터 시각화까지](https://github.com/sw-song/ds-study/blob/main/00_11_kospi_analysis/kospi_analysis.ipynb)**
 ```
 Step 1. KOSPI 200 거래정보 가져오기
 Step 2. 환율정보 가져오기
@@ -161,7 +161,7 @@ Step 3. 데이터 병합
 Step 4. 시계열 데이터 그려보기 with 평균, 편차
 ```
 
-**[12. 파이썬으로 최적의 포트폴리오 찾기](https://github.com/sw-song/TIA/blob/main/00_12_portfolio/portfolio(3).ipynb)**
+**[12. 파이썬으로 최적의 포트폴리오 찾기](https://github.com/sw-song/ds-study/blob/main/00_12_portfolio/portfolio(3).ipynb)**
 ```
 Step 1. 야후 파이낸스 데이터 추출
 Step 2. 일일 수익률 및 최종 수익률 확인
@@ -172,7 +172,7 @@ Step 6. 사프 지수에 따른 포트폴리오 수익률 및 변동성 시각�
 Step 7. 최적의 포트폴리오 비율
 ```
 
-**[13. ffn 사용 퀀트 분석](https://github.com/sw-song/TIA/blob/main/00_13_backtest/ffn.ipynb)**
+**[13. ffn 사용 퀀트 분석](https://github.com/sw-song/ds-study/blob/main/00_13_backtest/ffn.ipynb)**
 ```
 Step 1. 데이터 가져오기
 Step 2. 기준일 베이스 스케일링
@@ -181,7 +181,7 @@ Step 4. 기술통계
 Step 5. 객체 다루기
 ```
 
-**[14. 뉴스 기사와 주가의 상관분석](https://github.com/sw-song/TIA/blob/main/00_14_stock_sentiment_analysis/nvda.ipynb)**
+**[14. 뉴스 기사와 주가의 상관분석](https://github.com/sw-song/ds-study/blob/main/00_14_stock_sentiment_analysis/nvda.ipynb)**
 ```
 Step 1. 데이터 추출
      1-1. 뉴스 기사 수집
