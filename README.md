@@ -1,6 +1,5 @@
-# TIA(Today I Analyzed) - My Project
-## Description
-가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등의 다양한 분석 프로젝트를 진행하고 있습니다.
+# Data Science Study
+파이썬 활용 데이터 수집, 가설 검정, 데이터 분석, 머신러닝 예측 및 분류 모델링 등 전반적인 데이터사이언스 영역의 튜토리얼을 만들어가고 있습니다.
 
 **[1. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/TIA/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
 ```
