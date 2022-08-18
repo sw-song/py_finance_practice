@@ -172,13 +172,14 @@ Step 6. 사프 지수에 따른 포트폴리오 수익률 및 변동성 시각�
 Step 7. 최적의 포트폴리오 비율
 ```
 
-**[13. ffn 사용 퀀트 분석](https://github.com/sw-song/ds-study/blob/main/00_13_backtest/ffn.ipynb)**
+**[13. 백테스팅 패키지 ffn 사용법](https://github.com/sw-song/ds-study/blob/main/00_13_backtest/ffn.ipynb)**
 ```
-Step 1. 데이터 가져오기
-Step 2. 기준일 베이스 스케일링
-Step 3. 수익률 확인
+Step 1. 데이터 추출
+Step 2. 기준일 스케일링
+Step 3. 수익률
 Step 4. 기술통계
-Step 5. 객체 다루기
+Step 5. 손실률
+Step 6. 기타 기술통계
 ```
 
 **[14. 뉴스 기사와 주가의 상관분석](https://github.com/sw-song/ds-study/blob/main/00_14_stock_sentiment_analysis/nvda.ipynb)**
