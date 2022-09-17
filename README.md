@@ -1,41 +1,6 @@
 # Data Science Study
 파이썬 활용 데이터 수집, 가설 검정, 데이터 분석, 머신러닝 예측 및 분류 모델링 등 전반적인 데이터사이언스 영역의 튜토리얼을 만들어가고 있습니다.
 
-**[1. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/ds-study/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
-```
-Step 1. 가설 설정
-Step 2. 기본 전처리
-     2-1. 불필요한 컬럼 제거
-     2-2. 불필요한 행 제거
-     2-3. 데이터 타입 변환
-     2-4. 시계열 데이터 변환
-     2-5. 데이터 구간(시간) 분할
-Step 3. 가설 검정
-     3-1. 특정 콘텐츠 유형에 대한 집중 수급 여부 분석
-     3-2. 특정 국가를 겨냥한 콘텐츠 현황 분석
-     3-3. 콘텐츠 수급 대상 연도 분석
-     3-4. 넷플릭스의 주요 소비자 타겟(연령대) 분석
-     3-5. 콘텐츠 평균 재생 시간 분석
-     3-5. 넷플릭스에서 주로 수급하는 콘텐츠 장르 분석
-Step 4. 종합 결론
-```
-
-**[2. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/ds-study/blob/main/00_02_ecommerce/ecommerce.ipynb)**
-```
-Step 1. 가설 설정
-Step 2. 가설 검정
-     2-1. 평균 세션 접속 시간에 따른 연간 지출액 확인
-     2-2. 가입 기간에 따른 연간 지출액 확인
-     2-3. 앱, 웹 사용 시간 비교
-     2-4. 앱 사용 시간에 따른 연간 지출액 확인
-     2-5 웹 사용 시간에 따른 연간 지출액 확인
-     2-6. 가입 기간에 따른 구매 경로에 대한 선호도 차이 분석
-     2-7. 가입 기간에 따른 구매 경로 별 연간 지출액 확인
-Step 3. 분석 결과
-Step 4. 매출 개선 시뮬레이션
-```
-
-
 
 **[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/ds-study/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
 ```
@@ -59,17 +24,6 @@ Step 2. 고객 그룹 세분화
      2-7. 머신러닝으로 분류하기
 ```
 
-
-**[9. (코드)Time series - autocorrelation](https://github.com/sw-song/ds-study/blob/main/00_09_ts_autocorrelation/acf_pacf.ipynb)**
-```
-Step 1. 데이터 불러오기
-Step 2. 종가 데이터 분석
-     2-1. 차트 시각화
-     2-2. 자기상관성
-Step 3. 차분 데이터 분석
-     3-1. 자기상관성
-     3-2. 정상성
-```
 
 **[10. (코드)Predict Income](https://github.com/sw-song/ds-study/blob/main/00_10_predict_income/predict_income.ipynb)**
 ```
@@ -100,7 +54,7 @@ Step 3. 모델링 및 예측
 
 ---
 
-### [01. ffn(Financial Functions for Python)으로 퀀트 분석 시간을 아껴보자](https://github.com/sw-song/ds-study/blob/main/history/01/ffn.ipynb)
+**[01. ffn(Financial Functions for Python)으로 퀀트 분석 시간을 아껴보자](https://github.com/sw-song/ds-study/blob/main/history/01/ffn.ipynb)**
 ```
 Step 1. 데이터 추출
 Step 2. 기준일 스케일링
@@ -110,7 +64,7 @@ Step 5. 손실률
 Step 6. 기타 기술통계
 ```
 
-### [02. 파이썬 bt 패키지를 활용한 미국 주식 포트폴리오 백테스트](https://github.com/sw-song/ds-study/blob/main/history/02/bt.ipynb)
+**[02. 파이썬 bt 패키지를 활용한 미국 주식 포트폴리오 백테스트](https://github.com/sw-song/ds-study/blob/main/history/02/bt.ipynb)**
 ```
 Step 1. 작업 흐름
 Step 2. 사용 예시
@@ -118,7 +72,7 @@ Step 3. display() 함수
 Step 4. 분석 및 결론
 ```
 
-### [03. 파이썬으로 최적의 포트폴리오 비율 찾기(한국 주식, 국채 + 미국 주식, 국채)](https://github.com/sw-song/ds-study/blob/main/history/03/portfolio(3).ipynb)
+**[03. 파이썬으로 최적의 포트폴리오 비율 찾기(한국 주식, 국채 + 미국 주식, 국채)](https://github.com/sw-song/ds-study/blob/main/history/03/portfolio(3).ipynb)**
 ```
 Step 1. 야후 파이낸스 데이터 추출
 Step 2. 일일 수익률 및 최종 수익률 확인
@@ -129,7 +83,7 @@ Step 6. 사프 지수에 따른 포트폴리오 수익률 및 변동성 시각�
 Step 7. 최적의 포트폴리오 비율
 ```
 
-### [04. 패턴 검색 - 과거 주가 데이터로 미래 주가를 예측할 수 있을까?](https://github.com/sw-song/ds-study/blob/main/history/04/pattern_search.ipynb)
+**[04. 패턴 검색 - 과거 주가 데이터로 미래 주가를 예측할 수 있을까?](https://github.com/sw-song/ds-study/blob/main/history/04/pattern_search.ipynb)**
 ```
 Step 0. 패턴 검색
 Step 1. 코스피 종가 가져오기
@@ -138,7 +92,7 @@ Step 3. 패턴 검색기 구현
 Step 4. 검색 구간 이후의 추세 확인
 ```
 
-### [05. 개별 종목에 대한 단순 보유와 골든 크로스 전략의 수익률 비교 (feat. 카카오)](https://github.com/sw-song/ds-study/blob/main/history/05/kakao_backtesting.ipynb)
+**[05. 개별 종목에 대한 단순 보유와 골든 크로스 전략의 수익률 비교 (feat. 카카오)](https://github.com/sw-song/ds-study/blob/main/history/05/kakao_backtesting.ipynb)**
 ```
 Step 0. 전략
 Step 1. 데이터 불러오기
@@ -149,7 +103,7 @@ Step 5. 매매 시점 표기
 Step 6. 전략 수익률 계산
 ```
 
-### [06. 파이썬 비트코인 가격 예측 - 1,2,3차 지수 평활](https://github.com/sw-song/ds-study/blob/main/history/06/bitcoin_predict.ipynb)
+**[06. 파이썬 비트코인 가격 예측 - 1,2,3차 지수 평활](https://github.com/sw-song/ds-study/blob/main/history/06/bitcoin_predict.ipynb)**
 ```
 Step 1. 데이터 전처리
 Step 2. 이동평균과 단순 지수평활
@@ -163,7 +117,7 @@ Step 3. 추세와 계절성을 추가한 2차, 3차 지수평활
 Step 4. (결론) 비트코인 가격 전망
 ```
 
-### [07. 회귀 모형을 활용한 이더리움 가격 예측](https://github.com/sw-song/ds-study/blob/main/history/07/linear_reg.ipynb)
+**[07. 회귀 모형을 활용한 이더리움 가격 예측](https://github.com/sw-song/ds-study/blob/main/history/07/linear_reg.ipynb)**
 ```
 Step 1. 시계열 데이터와 추세
 Step 2. 모델 학습
@@ -173,7 +127,7 @@ Step 2. 모델 학습
 Step 3. 모델 평가
 ```
 
-### [08. 뉴스 기사와 주가의 상관분석 - 엔비디아](https://github.com/sw-song/ds-study/blob/main/history/08/nvda.ipynb)
+**[08. 뉴스 기사와 주가의 상관분석 - 엔비디아](https://github.com/sw-song/ds-study/blob/main/history/08/nvda.ipynb)**
 ```
 Step 1. 데이터 추출
      1-1. 뉴스 기사 수집
@@ -185,7 +139,7 @@ Step 3. 주가 데이터 스케일링
 Step 4. 상관 분석
 ```
 
-### [09. 파이썬을 활용한 코스피, 달러 환율정보 수집부터 차트 시각화까지](https://github.com/sw-song/ds-study/blob/main/history/09/kospi_analysis.ipynb)**
+**[09. 파이썬을 활용한 코스피, 달러 환율정보 수집부터 차트 시각화까지](https://github.com/sw-song/ds-study/blob/main/history/09/kospi_analysis.ipynb)**zzzzz
 ```
 Step 0. XHR이란
 Step 1. KOSPI 200 거래 정보 가져오기
@@ -195,7 +149,7 @@ Step 4. 평균 및 표준편차를 포함한 시계열 데이터 그리기
 Step 5. 표준화를 통해 시계열 겹쳐보기
 ```
 
-### [10. 키움증권 API를 활용한 주식 정보 및 일봉 데이터 수집](https://github.com/sw-song/ds-study/blob/main/history/10/pykiwoom_test.ipynb)
+**[10. 키움증권 API를 활용한 주식 정보 및 일봉 데이터 수집](https://github.com/sw-song/ds-study/blob/main/history/10/pykiwoom_test.ipynb)**
 ```
 Step 0. 주식 데이터 수집 방법
 Step 1. 환경 설정
@@ -204,4 +158,51 @@ Step 3. 종목 코드 수집
 Step 4. 개별 종목 정보 수집
 Step 5. 개별 주식 정보 수집
 Step 6. 개별 주식 일봉 차트 조회
+```
+
+**[11. 단타 vs 장기보유 - 자기상관분석 및 정상성 검정](https://github.com/sw-song/ds-study/blob/main/history/11/acf_pacf.ipynb)**
+```
+Step 1. 데이터 불러오기
+Step 2. 종가 데이터
+     2-1. 차트 시각화
+     2-2. 자기상관성
+Step 3. 차분 데이터
+     3-1. 차분 데이터 시각화
+     3-2. 차분 데이터의 자기상관성
+     3-3. 정상성
+Step 4. 결론
+```
+
+**[12. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/ds-study/blob/main/history/12/analysis_strategy_in_netflix.ipynb)**
+```
+Step 1. 가설 설정
+Step 2. 기본 전처리
+     2-1. 불필요한 컬럼 제거
+     2-2. 불필요한 행 제거
+     2-3. 데이터 타입 변환
+     2-4. 시계열 데이터 변환
+     2-5. 데이터 구간(시간) 분할
+Step 3. 가설 검정
+     3-1. 특정 콘텐츠 유형에 대한 집중 수급 여부 분석
+     3-2. 특정 국가를 겨냥한 콘텐츠 현황 분석
+     3-3. 콘텐츠 수급 대상 연도 분석
+     3-4. 넷플릭스의 주요 소비자 타겟(연령대) 분석
+     3-5. 콘텐츠 평균 재생 시간 분석
+     3-5. 넷플릭스에서 주로 수급하는 콘텐츠 장르 분석
+Step 4. 종합 결론
+```
+
+**[13. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/ds-study/blob/main/13/ecommerce.ipynb)**
+```
+Step 1. 가설 설정
+Step 2. 가설 검정
+     2-1. 평균 세션 접속 시간에 따른 연간 지출액 확인
+     2-2. 가입 기간에 따른 연간 지출액 확인
+     2-3. 앱, 웹 사용 시간 비교
+     2-4. 앱 사용 시간에 따른 연간 지출액 확인
+     2-5 웹 사용 시간에 따른 연간 지출액 확인
+     2-6. 가입 기간에 따른 구매 경로에 대한 선호도 차이 분석
+     2-7. 가입 기간에 따른 구매 경로 별 연간 지출액 확인
+Step 3. 분석 결과
+Step 4. 매출 개선 시뮬레이션
 ```
