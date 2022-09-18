@@ -1,56 +1,5 @@
-# Data Science Study
-파이썬 활용 데이터 수집, 가설 검정, 데이터 분석, 머신러닝 예측 및 분류 모델링 등 전반적인 데이터사이언스 영역의 튜토리얼을 만들어가고 있습니다.
-
-
-**[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/ds-study/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
-```
-Step 1. 문제 상황 가정 및 데이터 전처리 
-     1-1. 라이브러리 호출 및 데이터 확인 
-     1-2. 일부 컬럼 제거 
-     1-3. 컬럼명, 데이터타입 형식 통일 
-     1-4. 현재 날짜 가정 
-     1-5. 이상치 처리
-```
-
-**[5. (2) 고객 군집 분석 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/ds-study/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
-```
-Step 2. 고객 그룹 세분화
-     2-1. 나이에 따라 분류하기
-     2-2. 최근 구매일자에 따라 분류하기
-     2-3. 가입 기간에 따라 분류하기
-     2-4. 컴플레인 여부에 따라 분류하기
-     2-5. 온/오프라인 선호도에 따라 분류하기
-     2-6. 프로모션 동의 여부에 따라 분류하기
-     2-7. 머신러닝으로 분류하기
-```
-
-
-**[10. (코드)Predict Income](https://github.com/sw-song/ds-study/blob/main/00_10_predict_income/predict_income.ipynb)**
-```
-Step 1. EDA
-     1-1. 수치형, 범주형 컬럼 구분
-     1-2. 범주형 데이터 분포 시각화
-     1-3. 수치형 데이터 분포 시각화
-     1-4. 범주형 데이터 Null 값 확인
-     1-5. Null 값에 대해 최빈값 채우기
-Step 2. 데이터 전처리
-     2-1. Feature X와 예측값 y로 구분
-     2-2. 예측값 y에 대해 원핫 인코딩
-     2-3. 범주형 Feature X에 대해 원핫 인코딩
-     2-4. 학습, 평가 데이터 구분
-     2-5. 수치형 Feature 표준화
-     2-6. 범주형 Feature 차원축소(PCA) 및 표준화
-     2-7. 수치형 Feature와 범주형 Feature 병합
-     2-8. Feature 분포 확인
-Step 3. 모델링 및 예측
-     3-1. Logistic Regression
-     3-2. Random Forest
-     3-3. XGBoost
-     3-4. Light GBM
-     3-5. Deep Learning
-```
-
-
+# Data Science Tutorials
+금융, 비즈니스, 마케팅 분야 데이터 분석 튜토리얼입니다.
 
 ---
 
@@ -139,7 +88,7 @@ Step 3. 주가 데이터 스케일링
 Step 4. 상관 분석
 ```
 
-**[09. 파이썬을 활용한 코스피, 달러 환율정보 수집부터 차트 시각화까지](https://github.com/sw-song/ds-study/blob/main/history/09/kospi_analysis.ipynb)**zzzzz
+**[09. 지금 달러는 얼마나 비싼 걸까? 그럼 코스피는? - 데이터 수집 및 차트 시각화](https://github.com/sw-song/ds-study/blob/main/history/09/kospi_analysis.ipynb)**zzzzz
 ```
 Step 0. XHR이란
 Step 1. KOSPI 200 거래 정보 가져오기
@@ -192,7 +141,7 @@ Step 3. 가설 검정
 Step 4. 종합 결론
 ```
 
-**[13. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/ds-study/blob/main/13/ecommerce.ipynb)**
+**[13. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/ds-study/blob/main/history/13/ecommerce.ipynb)**
 ```
 Step 1. 가설 설정
 Step 2. 가설 검정
@@ -205,4 +154,51 @@ Step 2. 가설 검정
      2-7. 가입 기간에 따른 구매 경로 별 연간 지출액 확인
 Step 3. 분석 결과
 Step 4. 매출 개선 시뮬레이션
+```
+
+**[14. 딥러닝이 언제나 좋을까? - 소득 구간 예측](https://github.com/sw-song/ds-study/blob/main/history/14/predict_income.ipynb)**
+```
+Step 1. EDA
+     1-1. 수치형, 범주형 컬럼 구분
+     1-2. 범주형 데이터 분포 시각화
+     1-3. 수치형 데이터 분포 시각화
+     1-4. 범주형 데이터 Null 값 확인
+     1-5. Null 값에 대해 최빈값 채우기
+Step 2. 데이터 전처리
+     2-1. Feature X와 예측값 y로 구분
+     2-2. 예측값 y에 대해 원핫 인코딩
+     2-3. 범주형 Feature X에 대해 원핫 인코딩
+     2-4. 학습, 평가 데이터 구분
+     2-5. 수치형 Feature 표준화
+     2-6. 범주형 Feature 차원축소(PCA) 및 표준화
+     2-7. 수치형 Feature와 범주형 Feature 병합
+     2-8. Feature 분포 확인
+Step 3. 모델링 및 예측
+     3-1. Logistic Regression
+     3-2. Random Forest
+     3-3. XGBoost
+     3-4. Light GBM
+     3-5. Deep Learning
+```
+
+**[15-(1). 광고 프로모션 효율 증진을 위한 커머스 고객 세분화 - 문제 상황 가정 및 데이터 전처리](https://github.com/sw-song/ds-study/blob/main/history/15/customer_analysis_1.ipynb)**
+```
+Step 1. 문제 상황 가정 및 데이터 전처리 
+     1-1. 라이브러리 호출 및 데이터 확인 
+     1-2. 일부 컬럼 제거 
+     1-3. 컬럼명, 데이터타입 형식 통일 
+     1-4. 현재 날짜 가정 
+     1-5. 이상치 처리
+```
+
+**[15-(2). 광고 프로모션 효율 증진을 위한 커머스 고객 세분화 - 고객 군집 분석](https://github.com/sw-song/ds-study/blob/main/history/15/customer_analysis_2.ipynb)**
+```
+Step 2. 고객 그룹 세분화
+     2-1. 나이에 따라 분류하기
+     2-2. 최근 구매일자에 따라 분류하기
+     2-3. 가입 기간에 따라 분류하기
+     2-4. 컴플레인 여부에 따라 분류하기
+     2-5. 온/오프라인 선호도에 따라 분류하기
+     2-6. 프로모션 동의 여부에 따라 분류하기
+     2-7. 머신러닝으로 분류하기
 ```
