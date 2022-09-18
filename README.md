@@ -3,7 +3,7 @@
 
 ---
 
-**[01. ffn(Financial Functions for Python)으로 퀀트 분석 시간을 아껴보자](https://github.com/sw-song/ds-study/blob/main/history/01/ffn.ipynb)**
+**[01. ffn(Financial Functions for Python)으로 퀀트 분석 시간을 아껴보자](https://github.com/sw-song/ds-study/blob/main/tutorials/01/ffn.ipynb)**
 ```
 Step 1. 데이터 추출
 Step 2. 기준일 스케일링
@@ -13,7 +13,7 @@ Step 5. 손실률
 Step 6. 기타 기술통계
 ```
 
-**[02. 파이썬 bt 패키지를 활용한 미국 주식 포트폴리오 백테스트](https://github.com/sw-song/ds-study/blob/main/history/02/bt.ipynb)**
+**[02. 파이썬 bt 패키지를 활용한 미국 주식 포트폴리오 백테스트](https://github.com/sw-song/ds-study/blob/main/tutorials/02/bt.ipynb)**
 ```
 Step 1. 작업 흐름
 Step 2. 사용 예시
@@ -21,7 +21,7 @@ Step 3. display() 함수
 Step 4. 분석 및 결론
 ```
 
-**[03. 파이썬으로 최적의 포트폴리오 비율 찾기(한국 주식, 국채 + 미국 주식, 국채)](https://github.com/sw-song/ds-study/blob/main/history/03/portfolio(3).ipynb)**
+**[03. 파이썬으로 최적의 포트폴리오 비율 찾기(한국 주식, 국채 + 미국 주식, 국채)](https://github.com/sw-song/ds-study/blob/main/tutorials/03/portfolio(3).ipynb)**
 ```
 Step 1. 야후 파이낸스 데이터 추출
 Step 2. 일일 수익률 및 최종 수익률 확인
@@ -32,7 +32,7 @@ Step 6. 사프 지수에 따른 포트폴리오 수익률 및 변동성 시각�
 Step 7. 최적의 포트폴리오 비율
 ```
 
-**[04. 패턴 검색 - 과거 주가 데이터로 미래 주가를 예측할 수 있을까?](https://github.com/sw-song/ds-study/blob/main/history/04/pattern_search.ipynb)**
+**[04. 패턴 검색 - 과거 주가 데이터로 미래 주가를 예측할 수 있을까?](https://github.com/sw-song/ds-study/blob/main/tutorials/04/pattern_search.ipynb)**
 ```
 Step 0. 패턴 검색
 Step 1. 코스피 종가 가져오기
@@ -41,7 +41,7 @@ Step 3. 패턴 검색기 구현
 Step 4. 검색 구간 이후의 추세 확인
 ```
 
-**[05. 개별 종목에 대한 단순 보유와 골든 크로스 전략의 수익률 비교 (feat. 카카오)](https://github.com/sw-song/ds-study/blob/main/history/05/kakao_backtesting.ipynb)**
+**[05. 개별 종목에 대한 단순 보유와 골든 크로스 전략의 수익률 비교 (feat. 카카오)](https://github.com/sw-song/ds-study/blob/main/tutorials/05/kakao_backtesting.ipynb)**
 ```
 Step 0. 전략
 Step 1. 데이터 불러오기
@@ -52,7 +52,7 @@ Step 5. 매매 시점 표기
 Step 6. 전략 수익률 계산
 ```
 
-**[06. 파이썬 비트코인 가격 예측 - 1,2,3차 지수 평활](https://github.com/sw-song/ds-study/blob/main/history/06/bitcoin_predict.ipynb)**
+**[06. 파이썬 비트코인 가격 예측 - 1,2,3차 지수 평활](https://github.com/sw-song/ds-study/blob/main/tutorials/06/bitcoin_predict.ipynb)**
 ```
 Step 1. 데이터 전처리
 Step 2. 이동평균과 단순 지수평활
@@ -66,7 +66,7 @@ Step 3. 추세와 계절성을 추가한 2차, 3차 지수평활
 Step 4. (결론) 비트코인 가격 전망
 ```
 
-**[07. 회귀 모형을 활용한 이더리움 가격 예측](https://github.com/sw-song/ds-study/blob/main/history/07/linear_reg.ipynb)**
+**[07. 회귀 모형을 활용한 이더리움 가격 예측](https://github.com/sw-song/ds-study/blob/main/tutorials/07/linear_reg.ipynb)**
 ```
 Step 1. 시계열 데이터와 추세
 Step 2. 모델 학습
@@ -76,7 +76,7 @@ Step 2. 모델 학습
 Step 3. 모델 평가
 ```
 
-**[08. 뉴스 기사와 주가의 상관분석 - 엔비디아](https://github.com/sw-song/ds-study/blob/main/history/08/nvda.ipynb)**
+**[08. 뉴스 기사와 주가의 상관분석 - 엔비디아](https://github.com/sw-song/ds-study/blob/main/tutorials/08/nvda.ipynb)**
 ```
 Step 1. 데이터 추출
      1-1. 뉴스 기사 수집
@@ -88,7 +88,7 @@ Step 3. 주가 데이터 스케일링
 Step 4. 상관 분석
 ```
 
-**[09. 지금 달러는 얼마나 비싼 걸까? 그럼 코스피는? - 데이터 수집 및 차트 시각화](https://github.com/sw-song/ds-study/blob/main/history/09/kospi_analysis.ipynb)**
+**[09. 지금 달러는 얼마나 비싼 걸까? 그럼 코스피는? - 데이터 수집 및 차트 시각화](https://github.com/sw-song/ds-study/blob/main/tutorials/09/kospi_analysis.ipynb)**
 ```
 Step 0. XHR이란
 Step 1. KOSPI 200 거래 정보 가져오기
@@ -98,7 +98,7 @@ Step 4. 평균 및 표준편차를 포함한 시계열 데이터 그리기
 Step 5. 표준화를 통해 시계열 겹쳐보기
 ```
 
-**[10. 키움증권 API를 활용한 주식 정보 및 일봉 데이터 수집](https://github.com/sw-song/ds-study/blob/main/history/10/pykiwoom_test.ipynb)**
+**[10. 키움증권 API를 활용한 주식 정보 및 일봉 데이터 수집](https://github.com/sw-song/ds-study/blob/main/tutorials/10/pykiwoom_test.ipynb)**
 ```
 Step 0. 주식 데이터 수집 방법
 Step 1. 환경 설정
@@ -109,7 +109,7 @@ Step 5. 개별 주식 정보 수집
 Step 6. 개별 주식 일봉 차트 조회
 ```
 
-**[11. 단타 vs 장기보유 - 자기상관분석 및 정상성 검정](https://github.com/sw-song/ds-study/blob/main/history/11/acf_pacf.ipynb)**
+**[11. 단타 vs 장기보유 - 자기상관분석 및 정상성 검정](https://github.com/sw-song/ds-study/blob/main/tutorials/11/acf_pacf.ipynb)**
 ```
 Step 1. 데이터 불러오기
 Step 2. 종가 데이터
@@ -122,7 +122,7 @@ Step 3. 차분 데이터
 Step 4. 결론
 ```
 
-**[12. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/ds-study/blob/main/history/12/analysis_strategy_in_netflix.ipynb)**
+**[12. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/ds-study/blob/main/tutorials/12/analysis_strategy_in_netflix.ipynb)**
 ```
 Step 1. 가설 설정
 Step 2. 기본 전처리
@@ -141,7 +141,7 @@ Step 3. 가설 검정
 Step 4. 종합 결론
 ```
 
-**[13. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/ds-study/blob/main/history/13/ecommerce.ipynb)**
+**[13. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/ds-study/blob/main/tutorials/13/ecommerce.ipynb)**
 ```
 Step 1. 가설 설정
 Step 2. 가설 검정
@@ -156,7 +156,7 @@ Step 3. 분석 결과
 Step 4. 매출 개선 시뮬레이션
 ```
 
-**[14. 딥러닝이 언제나 좋을까? - 소득 구간 예측](https://github.com/sw-song/ds-study/blob/main/history/14/predict_income.ipynb)**
+**[14. 딥러닝이 언제나 좋을까? - 소득 구간 예측](https://github.com/sw-song/ds-study/blob/main/tutorials/14/predict_income.ipynb)**
 ```
 Step 1. EDA
      1-1. 수치형, 범주형 컬럼 구분
@@ -181,7 +181,7 @@ Step 3. 모델링 및 예측
      3-5. Deep Learning
 ```
 
-**[15-(1). 광고 프로모션 효율 증진을 위한 커머스 고객 세분화 - 문제 상황 가정 및 데이터 전처리](https://github.com/sw-song/ds-study/blob/main/history/15/customer_analysis_1.ipynb)**
+**[15-(1). 광고 프로모션 효율 증진을 위한 커머스 고객 세분화 - 문제 상황 가정 및 데이터 전처리](https://github.com/sw-song/ds-study/blob/main/tutorials/15/customer_analysis_1.ipynb)**
 ```
 Step 1. 문제 상황 가정 및 데이터 전처리 
      1-1. 라이브러리 호출 및 데이터 확인 
@@ -191,7 +191,7 @@ Step 1. 문제 상황 가정 및 데이터 전처리
      1-5. 이상치 처리
 ```
 
-**[15-(2). 광고 프로모션 효율 증진을 위한 커머스 고객 세분화 - 고객 군집 분석](https://github.com/sw-song/ds-study/blob/main/history/15/customer_analysis_2.ipynb)**
+**[15-(2). 광고 프로모션 효율 증진을 위한 커머스 고객 세분화 - 고객 군집 분석](https://github.com/sw-song/ds-study/blob/main/tutorials/15/customer_analysis_2.ipynb)**
 ```
 Step 2. 고객 그룹 세분화
      2-1. 나이에 따라 분류하기
