@@ -1,5 +1,5 @@
-# Data Science Tutorials
-금융, 비즈니스, 마케팅 분야 데이터 분석 튜토리얼입니다.
+# Py-Finance Tutorials - Practice
+금융, 비즈니스 데이터 분석 튜토리얼입니다. 파이썬 및 데이터 분석 기초, 시계열 데이터에 대한 기본적 이해를 전제로 합니다.
 
 ---
 
@@ -88,7 +88,7 @@ Step 3. 주가 데이터 스케일링
 Step 4. 상관 분석
 ```
 
-**[09. 지금 달러는 얼마나 비싼 걸까? 그럼 코스피는? - 데이터 수집 및 차트 시각화](https://github.com/sw-song/ds-study/blob/main/history/09/kospi_analysis.ipynb)**zzzzz
+**[09. 지금 달러는 얼마나 비싼 걸까? 그럼 코스피는? - 데이터 수집 및 차트 시각화](https://github.com/sw-song/ds-study/blob/main/history/09/kospi_analysis.ipynb)**
 ```
 Step 0. XHR이란
 Step 1. KOSPI 200 거래 정보 가져오기
